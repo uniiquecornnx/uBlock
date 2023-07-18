@@ -154,8 +154,12 @@ If you ever want to contribute something, think about the people working hard to
 [Edge]: https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak
 [NPM]: https://www.npmjs.com/package/@gorhill/ubo-core
 
+***
+
 [Manifesto]: MANIFESTO.md
 [License]: LICENSE.txt
+
+***
 
 [Nicole Rolls]: https://github.com/nicole-ashley
 
